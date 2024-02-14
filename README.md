@@ -1,7 +1,7 @@
 # Ferramenta Meteor (Versão em Português)
 (for English version see below)
 
-O Meteor é ferramenta produto de um trabalho de pesquisa de um mestrado para o curso de computação aplicada do IPT (Instituto de Pesquisas Tecnológicas de São Paulo).
+O Meteor é ferramenta produto de um trabalho de pesquisa de um mestrado para o curso de computação aplicada do [IPT](<https://ipt.br/ensino/>) (Instituto de Pesquisas Tecnológicas de São Paulo).
 
 Ele funciona como um plugin para a IDE Eclipse desenvolvido para apoiar desenvolvedores na validação do sucesso de uma refatoração do código de testes. Para instalar o Meteor vide as instruções abaixo.
 
@@ -9,7 +9,7 @@ Para que o projeto fosse possível, foi realizado um fork do projeto Pitclipse p
 
 # Autores
 
-O projeto foi desenvolvimento por Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) em conjunto com os professores Eduardo Martins Guerra e Fabio Fagundes Silveira.
+O projeto foi desenvolvimento por [Tiago Samuel Rodrigues Teixeira](<https://www.linkedin.com/in/tsrteixeira/>) em conjunto com os professores Eduardo Martins Guerra e Fabio Fagundes Silveira.
 
 | Pesquisador | ORCID |
 | --- | --- |
@@ -70,7 +70,7 @@ Se você quiser instalar o plugin Pitclipse original sem as alterações que sup
 
 # Meteor Tool (English Version)
 
-Meteor is a tool resulting from a master's degree research work for the applied computing course at IPT (São Paulo Technological Research Institute).
+Meteor is a tool resulting from a master's degree research work for the applied computing course at [IPT](<https://ipt.br/ensino/>) (São Paulo Technological Research Institute).
 
 It works as a plugin for the Eclipse IDE designed to support developers in validating the success of a test code refactoring. To install Meteor, see the instructions below.
 
@@ -78,7 +78,7 @@ To make the project possible, a fork of the Pitclipse project was made to make t
 
 # Authors
 
-The project was developed by Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) in collaboration with professors Eduardo Martins Guerra and Fabio Fagundes Silveira.
+The project was developed by [Tiago Samuel Rodrigues Teixeira](<https://www.linkedin.com/in/tsrteixeira/>) in collaboration with professors Eduardo Martins Guerra and Fabio Fagundes Silveira.
 
 | Researcher | ORCID |
 | --- | --- |
